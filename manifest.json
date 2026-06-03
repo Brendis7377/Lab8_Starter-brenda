@@ -1,17 +1,16 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
-    "icons": [
-      {
-        "src": "/assets/images/icons/icon-192x192.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      }
-    ]
-  }
-  
+  "name": "Lab8_Starter-brenda",
+  "short_name": "Brenda",
+  "description": "Recipe App",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffe4f2",
+  "theme_color": "#ff69b4",
+  "icons": [
+    {
+      "src": "./assets/images/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
